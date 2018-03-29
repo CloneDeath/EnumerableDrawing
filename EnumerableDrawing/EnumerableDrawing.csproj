@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.0</TargetFramework>
+		<PackageProjectUrl>https://github.com/CloneDeath/EnumerableDrawing</PackageProjectUrl>
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/CloneDeath/EnumerableDrawing</RepositoryUrl>
+		<Description>A useful collection of enumerators for System.Drawing, for example, easily iterate over every
+		point in Size.</Description>
+		<PackageIconUrl>http://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Microsoft-Paint-icon.png</PackageIconUrl>
+	</PropertyGroup>
+</Project>
